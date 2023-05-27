@@ -24,6 +24,7 @@ export const AddCategory = ({ /* setCategories, categories */ onNewCategory }) =
 
     <form onSubmit={(event) => onSubmit(event)}>
       <input
+        className='imput-search'
         type="text"
         placeholder="Bucar Gifs"
         value={inputValue}

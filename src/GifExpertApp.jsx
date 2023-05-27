@@ -20,7 +20,7 @@ export const GifExpertApp = () => {
   return (
     <>
       {/* titulo */}
-      <h1>GifExpertApp</h1>
+      <h1>GifSearcherApp</h1>
 
       {/* Input */}
       <AddCategory
